@@ -45,6 +45,8 @@ cd repo-name
 git remote add upstream https://github.com/ORIGINAL-OWNER/repo-name.git
 git fetch upstream
 git merge upstream/main
+
+# "Remember the original repo's address → go check if it has anything new → bring those new things into my code."
 ```
 
 ---
