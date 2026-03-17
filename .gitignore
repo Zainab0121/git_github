@@ -1,1 +1,16 @@
-  
+  # Secrets & credentials
+secrets.txt
+*.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Dependencies (installed packages)
+node_modules/
+__pycache__/
+
+# Build output
+dist/
+*.log
+logs/
