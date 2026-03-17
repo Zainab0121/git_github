@@ -1,0 +1,8 @@
+branching 
+
+git switch -c branching          # create & switch
+echo "branching" >> branch.txt   # make a change
+git add branch.txt
+git commit -m "learn how to branch"   # commit on THIS branch only
+
+git switch main
