@@ -106,6 +106,7 @@ logs/
 
 ```bash
 touch .gitignore          # create the file
+# echo. > .gitignore - create file using cmd
 # add patterns inside it
 git add .gitignore
 git commit -m "Add .gitignore"
@@ -174,4 +175,4 @@ git branch -d feature/my-feature    # clean up
 
 ---
 
-*From zero to open-source contributor in three days.* ðŸŽ‰
+*From zero to open-source contributor in three days.* ðŸŽ
